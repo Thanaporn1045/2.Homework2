@@ -1,0 +1,16 @@
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\bin\Debug\net5.0\การบ้านสอง.exe
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\bin\Debug\net5.0\การบ้านสอง.deps.json
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\bin\Debug\net5.0\การบ้านสอง.runtimeconfig.json
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\bin\Debug\net5.0\การบ้านสอง.runtimeconfig.dev.json
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\bin\Debug\net5.0\การบ้านสอง.dll
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\bin\Debug\net5.0\ref\การบ้านสอง.dll
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\bin\Debug\net5.0\การบ้านสอง.pdb
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\obj\Debug\net5.0\การบ้านสอง.csproj.AssemblyReference.cache
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\obj\Debug\net5.0\การบ้านสอง.GeneratedMSBuildEditorConfig.editorconfig
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\obj\Debug\net5.0\การบ้านสอง.AssemblyInfoInputs.cache
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\obj\Debug\net5.0\การบ้านสอง.AssemblyInfo.cs
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\obj\Debug\net5.0\การบ้านสอง.csproj.CoreCompileInputs.cache
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\obj\Debug\net5.0\การบ้านสอง.dll
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\obj\Debug\net5.0\ref\การบ้านสอง.dll
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\obj\Debug\net5.0\การบ้านสอง.pdb
+D:\ปี 2\Programming\HW\การบ้านสอง\การบ้านสอง\obj\Debug\net5.0\การบ้านสอง.genruntimeconfig.cache
